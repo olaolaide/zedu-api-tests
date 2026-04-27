@@ -1,6 +1,6 @@
 # 🚀 Zedu API Automation Test Suite
 
-**Automated API Testing Framework (JavaScript • Jest • Axios • Dotenv)**
+**Automated API Testing Framework (JavaScript • Playwright • Dotenv)**
 
 This repository contains a fully structured, maintainable, and scalable API automation framework built for the **HNG QA Engineering Track – Stage 3 Task**.  
 It tests the Zedu Platform API using clean engineering practices, dynamic authentication, and robust test design.
